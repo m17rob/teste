@@ -21,7 +21,7 @@
 //   document.getElementById('myButton').textContent = 'Apasă-mă';
 // }
 
-let count = 8;
+let count = 9;
 let countCheck = parseInt(localStorage.getItem("countCheck")) || 1;
 let buttonPressed = false;
 
